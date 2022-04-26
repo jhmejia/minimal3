@@ -1,10 +1,10 @@
-title: TomasMiskov # name of the site
+title: Tomáš Miškov # name of the site
 author: Tomas Miskov # name of site's author
 email: miskov.tomi@gmail.com # email of site's author
 url: https://TomasMiskov.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  Little private blog of Tomáš Miškov, a data scientist, gym rat and entrepreneur in training. Welcome!
 
 permalink: /:slug.html
 
