@@ -1,12 +1,44 @@
 ---
 layout: default
 ---
+
+<style>
+  .logo {
+      width: 110px;
+      position: relative;
+      display: inline-block;
+      vertical-align: middle;
+  }
+  .logo .black {
+      display: none;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 99;
+  }
+  .logo:hover .black {
+      display: inline;
+  }
+</style>
+
 <header>
+  <!-- <div style="display:inline-block; min-width:2.9cm; vertical-align: middle;"> -->
+  <div class="logo">
+    <img src="images\home\Tomas_Miskov_Logo_TM.png" alt="Logo White">
+    <img src="images\home\Tomas_Miskov_Logo_TM_black.png" class="black" alt="Logo Black">
+  </div>
+
+  <div style="display:inline-block; vertical-align: middle;">
+    <h1>{{ site.title }}</h1>
+  </div>
+</header>
+
+<!-- <header>
   <h1>{{ site.title }}</h1>
   {%-if site.theme_config.show_description-%}
     <p>{{ site.description }}</p>
   {%-endif-%}
-</header>
+</header> -->
 
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
