@@ -98,7 +98,9 @@ figcaption {
 }
 
 figure {
-  max-width: 100%;
+  width: 100%;
   display: block;
-  padding: 10px;
+  margin: 0 auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
