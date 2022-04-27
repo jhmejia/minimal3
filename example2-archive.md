@@ -1,5 +1,5 @@
 ---
 layout: archive
-which_category: example2
-title: All posts of category 'example2'
+which_category: book-reflection
+title: All of my quick book reflections in one place
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Flowers for Algernon [Book Reflection]
+title: Flowers for Algernon
+category: book-reflection
 ---
 
 ### Synopsis

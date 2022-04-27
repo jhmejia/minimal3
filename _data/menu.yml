@@ -13,10 +13,10 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: <b>posts by category</b>
+  - title: <b>book reflections</b>
     post_list:
       limit: 1
-      category: example2
+      category: book-reflection
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
