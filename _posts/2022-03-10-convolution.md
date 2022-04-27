@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Convolution
+category: learning
 ---
 
 ### What are we talking about?

@@ -2,26 +2,32 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: <b>info</b>
+  - title: <b>Info</b>
     entries:
-      - title: about
+      - title: About
         url: pages/about
-  - title: <b>all posts</b>
-    post_list:
-      limit: 3
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
 
-  - title: <b>book reflections</b>
+  - title: <b>Learning posts</b>
+    post_list:
+      limit: 1
+      category: learning
+      show_more: true
+      show_more_text: See learning archive...
+      show_more_url: learning-archive.html
+
+  - title: <b>Book reflections</b>
     post_list:
       limit: 1
       category: book-reflection
       show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_text: See more reflections...
+      show_more_url: book-reflection-archive.html
 
-  - title: <b>contact</b>
+  - title: <b>All posts</b>
+    entries:
+      - title: <a href=" archive.html">Archive</a>
+
+  - title: <b>Contact</b>
     entries:
       - title: <a href="mailto:miskov.tomi@gmail.com" target="_blank" rel="noopener noreferrer">miskov.tomi@gmail.com</a>
       - title: <a href="https://instagram.com/imotvoksim/" target="_blank" rel="noopener noreferrer">ig</a>

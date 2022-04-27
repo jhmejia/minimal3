@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Probability of Improvement
+category: learning
 ---
 
 ### The State-of-the-Art Problem
