@@ -9,7 +9,7 @@ entries:
 
   - title: <b>Learning posts</b>
     post_list:
-      limit: 1
+      limit: 3
       category: learning
       show_more: true
       show_more_text: See learning archive...
