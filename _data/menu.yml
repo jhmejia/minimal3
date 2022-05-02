@@ -27,11 +27,11 @@ entries:
     entries:
       - title: <a href=" archive.html">Archive</a>
 
-  - title: <b>Contact</b>
-    entries:
-      - title: <a href="mailto:miskov.tomi@gmail.com" target="_blank" rel="noopener noreferrer">miskov.tomi@gmail.com</a>
-      - title: <a href="https://instagram.com/imotvoksim/" target="_blank" rel="noopener noreferrer">ig</a>
-      - title: <a href="https://www.youtube.com/channel/UCUaOtnzPiHKSIAsM_Nu6-bQ" target="_blank" rel="noopener noreferrer">yt</a>
+  # - title: <b>Contact</b>
+  #   entries:
+  #     - title: <a href="mailto:miskov.tomi@gmail.com" target="_blank" rel="noopener noreferrer">miskov.tomi@gmail.com</a>
+  #     - title: <a href="https://instagram.com/imotvoksim/" target="_blank" rel="noopener noreferrer">ig</a>
+  #     - title: <a href="https://www.youtube.com/channel/UCUaOtnzPiHKSIAsM_Nu6-bQ" target="_blank" rel="noopener noreferrer">yt</a>
 
   # - title: rss
   #   url: feed.xml

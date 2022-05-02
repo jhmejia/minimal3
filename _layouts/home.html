@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-<head>
-  {% seo %}
-</head>
+
+{% include head.html %}
 
 <style>
   .logo {
@@ -41,3 +40,5 @@ layout: default
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
 {{ content }}
+
+{% include social-media-links.html %}
