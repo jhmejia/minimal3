@@ -15,6 +15,14 @@ entries:
       show_more_text: See learning archive...
       show_more_url: learning-archive.html
 
+  - title: <b>ML Notes</b>
+    post_list:
+      limit: 3
+      category: ml-notes
+      show_more: true
+      show_more_text: See notes archive...
+      show_more_url: ml-notes-archive.html
+
   - title: <b>Book reflections</b>
     post_list:
       limit: 1
