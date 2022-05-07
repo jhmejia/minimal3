@@ -8,6 +8,12 @@ layout: default
   <p class="post-meta">
     <time datetime="{{ page.date }}">Created on {{ page.date | date: site.theme_config.date_format }}</time>
   </p>
+
+  {%- if page.edited-on -%}
+    <p class="post-meta">
+      <time datetime="{{ page.date }}">Last edited on {{ page.edited-on | date: site.theme_config.date_format }}</time>
+    </p>
+  {%- endif -%}
   
   <h1>{{ page.title }}</h1>
 
