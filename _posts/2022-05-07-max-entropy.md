@@ -23,20 +23,20 @@ As it turns out, the solution to these constraints as proven by [Shanon](https:/
 ### Maximize entropy?
 Let's first set up the scene. Imagine we have have a sample of paired observations $(\boldsymbol{x}_i, y_i)$ where $\boldsymbol{x}_i$ is the number of brown spots on a banana and how many days ago it has been bought - its age, while $y_i$ is a dummy variable telling us whether the banana is ripe or not. Our goal is to construct a model that based on $\boldsymbol{x}_i$ predicts whether the banana is ripe. 
 
-Since we don't have information about all the bananas in the world, our model will only be based on the bananas in our sample $\hat{\boldsymbol{x}}$. However, we want the model to generalize well to the rest of the bananas we may encounter in the future, thus we do NOT want to *overfit* the model on our sample. The idea of chosing the model that maximizes the conditional entropy $H(Y|X),$ is exactly the idea of trying to avoid *overfitting*.
+Since we don't have information about all the bananas in the world, our model will only be based on the bananas in our sample $\hat{\boldsymbol{x}}$. However, we want the model to generalize well to the rest of the bananas we may encounter in the future, thus we do NOT want to _overfit_ the model on our sample. The idea of chosing the model that maximizes the conditional entropy $H(Y\vert X)$, is exactly the idea of trying to avoid _overfitting_.
 
-The intuition here is that since we do not know what kind of bananas we may encounter in the future, we want the model that assigns the most uniform probabilities to the ripeness of the bananas given their number of brown spots and age. In other words, we want the model that takes in the facts we have observed, but assumes no additional conditions beyond these facts. That is the model with the most uniform distribution of $\hat{p}(y|x)$.
+The intuition here is that since we do not know what kind of bananas we may encounter in the future, we want the model that assigns the most uniform probabilities to the ripeness of the bananas given their number of brown spots and age. In other words, we want the model that takes in the facts we have observed, but assumes no additional conditions beyond these facts. That is the model with the most uniform distribution of $\hat{p}(y\vert x)$.
 
 ### Max Entropy Classifier
-Finally, in order to find the model (classifier) that maximizes the entropy of the estimated conditional probability distribution $p(y|x)$, we need to solve a constrained optimization problem:
+Finally, in order to find the model (classifier) that maximizes the entropy of the estimated conditional probability distribution $p(y\vert x)$, we need to solve a constrained optimization problem:
 
 $$p^*=\text{arg}\max_{p\in C}H(p),$$
 
-where I am borrowing the notation from Berger et. al. (1996), namely $H(p)$ is a short-hand notation for $H(Y|X)$ and $C$ is a set of all potential probability distributions $p$ given the problem at hand. Using the tricks of Lagrange multipliers and dual formulation, Berger et. al. (p. 8) show that the solution comes in a form:
+where I am borrowing the notation from Berger et. al. (1996), namely $H(p)$ is a short-hand notation for $H(Y\vert X)$ and $C$ is a set of all potential probability distributions $p$ given the problem at hand. Using the tricks of Lagrange multipliers and dual formulation, Berger et. al. (p. 8) show that the solution comes in a form:
 
-$$p_{\lambda}(y|x) = \frac{1}{Z_{\lambda}(x)}\exp\left(\sum_i\lambda_if_i(x,y)\right),$$
+$$p_{\lambda}(y\vert x) = \frac{1}{Z_{\lambda}(x)}\exp\left(\sum_i\lambda_if_i(x,y)\right),$$
 
-with $f_i(x,y)$ being a feature indicating function that takes on either a value of 1 or 0. For example the feature 'banana has 10+ brown spots and it is ripe' can be expressed as a binary indicator for every banana in our sample taking on value of 1 whenever the condition holds true, 0 otherwise. Moreover, $Z_{\lambda}(x)$ is a normalizing constant that comes from the condition that the sum over all $p(y|x)$ must be equal to 1, and $\lambda_i$ are the weights assigned to each feature such that the final entropy of $p^*$ is maximized.
+with $f_i(x,y)$ being a feature indicating function that takes on either a value of 1 or 0. For example the feature 'banana has 10+ brown spots and it is ripe' can be expressed as a binary indicator for every banana in our sample taking on value of 1 whenever the condition holds true, 0 otherwise. Moreover, $Z_{\lambda}(x)$ is a normalizing constant that comes from the condition that the sum over all $p(y\vert x)$ must be equal to 1, and $\lambda_i$ are the weights assigned to each feature such that the final entropy of $p^*$ is maximized.
 
 ### Remaining Questions
 - How do we choose the best feature functions $f_i$?
