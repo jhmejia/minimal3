@@ -40,3 +40,8 @@ with $f_i(x,y)$ being a feature indicating function that takes on either a value
 
 ### Remaining Questions
 - How do we choose the best feature functions $f_i$?
+
+#### References 
+- Article that prompted this deep dive: [Mining and Summarizing Customer Reviews (Hu & Liu, 2004)](https://dl.acm.org/doi/abs/10.1145/1014052.1014073)
+- Wiki: [Entropy (Information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory))
+- Berger et. al. (1966): [A Maximum Entropy Approach to Natural Language Processing](https://aclanthology.org/J96-1002.pdf)
