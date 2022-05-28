@@ -169,7 +169,7 @@ Looking again at our toy example, what we are really interested in is NOT the ex
 
 Instead of computing the actual values of the new coordinates for each point, a kernel function computes some **distance measure between all pairs of points** in some **higher-dimensional space**. In our toy example, this would mean that the kernel trick would never produce the 3-dimensional pictures above explicitly! All the kernel function would give us are the 3D (dis)similarities between the points, but never their actual 3D coordinates. I've repeated this twice, I know, but I think this is what most explanations are missing. This idea of only computing the pseudo-distances is the actual "trick" in the kernel trick. But if you still don't see why we call it a "trick", let's disect it a little further.
 
-In the above 3D picture, computing (some) distance measure between two points $i$ and $j$ would require us to consider all 3 of their coordinates, $(x_i, \: y_i, \: z_i)$ and $(x_j, \: y_j, \: z_j)$. Why kernel trick is called a "trick", is that this distance measure is computable without ever having to explicitly know or compute all of these coordinates. Since that is the case, the kernel trick will never be able to tell us what the exact position of the point $i$ or $j$ in 3D is, since it will never compute the new coordinates. However, we couldn't care less, since all we want to know is how $i$ relates to $j$ in 3D, and the kernel trick can readily provide us with that answer.
+In the above 3D picture, computing (some) distance measure between two points $i$ and $j$ would require us to consider all 3 of their coordinates, $(x_i, \; y_i, \; z_i)$ and $(x_j, \; y_j, \; z_j)$. Why kernel trick is called a "trick", is that this distance measure is computable without ever having to explicitly know or compute all of these coordinates. Since that is the case, the kernel trick will never be able to tell us what the exact position of the point $i$ or $j$ in 3D is, since it will never compute the new coordinates. However, we couldn't care less, since all we want to know is how $i$ relates to $j$ in 3D, and the kernel trick can readily provide us with that answer.
 
 How it does so, and this is the second important property of the kernel trick that's key here, is by defining the distances or (dis)similarities as **dot products between the vectors in the higher-dimensional space**. In our examples above, the (dis)similarity between points $i$ and $j$ would be computed as $i \cdot j$ or $(x_i \quad y_i \quad x_i^2+y_i^2)(x_j \quad y_j \quad x_j^2+y_j^2)^T$. With this definition, it is (sometimes) possible to compute $i \cdot j$ in 3D by applying some kernel function $k$ to their inner product $k(i \cdot j)$ in 2D. Which is exactly the "trick" here! We define a kernel function $k$ that computes the dot products in 3D, but it does so by only ever considering the coordinates in 2D, never in 3D (the higher dimension).
 
@@ -186,7 +186,7 @@ What we would like to do is to apply a kernel function that's equivalent to comp
 
 $$\begin{pmatrix}x_i \quad y_i \quad x_i^2 + y_i^2\end{pmatrix}\cdot\begin{pmatrix}x_j \\ y_j \\ x_j^2 + y_j^2\end{pmatrix}$$ 
 
-for all pairs of points $i$ and $j$ while only considering their known coordinates $x_i, \: y_i$ and $x_j, \: y_j$. Expanding the above defined dot product we get, 
+for all pairs of points $i$ and $j$ while only considering their known coordinates $(x_i, \; y_i)$ and $(x_j, \; y_j)$. Expanding the above defined dot product we get, 
 
 $$x_ix_j + y_iy_j + (x_i^2 + y_i^2)(x_j^2 + y_j^2).$$
 
