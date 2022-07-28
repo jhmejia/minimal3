@@ -1,14 +1,3 @@
-// var A = [];
-// var EVs;
-// var V = [];
-// var U = [];
-// const N = 100;
-// const step = 10;
-
-// var theta1;
-// var line_y;
-// var line_y
-
 var A = [],
     EVS, V = [],
     U = [], N = 100,
@@ -16,35 +5,26 @@ var A = [],
 
 function setup() {
   const canvas = createCanvas(400, 400);
-  canvas.parent('sketch-holder');
+  canvas.parent('sketch');
   // define linear transformation (matrix A)
   A.push([0, -2]);
   A.push([1, -3]);
   
   // create matrix buttons
   button = createButton('Symmetric')
-  button.position(width/2, height - 25)
+  button.position(width/2 - 35, height - 25)
   button.mousePressed(symmetric)
-  button.style('background-color', 'white')
-  button.style('color', '#000000')
-  button.style('border', 'none')
-  button.parent('sketch-holder')
+  buttonCSS(button);
   
   button2 = createButton('Asymmetric')
-  button2.position(width - 120, height - 25)
+  button2.position(width/2 - 120, height - 25)
   button2.mousePressed(asymmetric)
-  button2.style('background-color', 'white')
-  button2.style('color', '#000000')
-  button2.style('border', 'none')
-  button2.parent('sketch-holder')
+  buttonCSS(button2);
   
-  button3 = createButton('Imaginery')
-  button3.position(width - 30, height - 25)
+  button3 = createButton('Rotation')
+  button3.position(width/2 + 45, height - 25)
   button3.mousePressed(imaginery)
-  button3.style('background-color', 'white')
-  button3.style('color', '#000000')
-  button3.style('border', 'none')
-  button3.parent('sketch-holder')
+  buttonCSS(button3);
   
   // create base vectors & transformed vectors
   for(let i = -N; i <= N; i += step){
@@ -199,4 +179,12 @@ function imaginery(){
     V[i] = ithRowV;
     U[i] = ithRowU;
   }
+}
+
+function buttonCSS(button){
+  button.style('background-color', 'white')
+  button.style('color', '#000000')
+  button.style('border', 'none')
+  button.style('cursor', 'pointer')
+  button.parent('sketch')
 }

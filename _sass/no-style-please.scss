@@ -130,11 +130,15 @@ a:link {
 #sketch-holder {
   margin: 0;
   display: flex;
+  position: relative;
 
   /* This centers our sketch horizontally. */
   justify-content: center;
 
   /* This centers our sketch vertically. */
   align-items: center;
-  position: relative;
+}
+
+#sketch {
+  position: relative
 }
