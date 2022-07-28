@@ -20,4 +20,9 @@
 
   <!-- Font Awesome -->
   <link href="assets\css\font-awesome\all.css" rel="stylesheet">
+
+  <!-- custom page dependencies -->
+  {% for dependency in page.dependencies %}
+    {% include dependency.html name=dependency %}
+  {% endfor %}
 </head>
