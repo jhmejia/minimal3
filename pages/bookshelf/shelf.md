@@ -1,5 +1,4 @@
 ---
-title: Bookshelf
 ---
 <html lang="en">
 <head>
@@ -12,7 +11,7 @@ title: Bookshelf
 <div class="w">
 
 <a style="position:fixed" href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
-<h1 style="position:fixed" id="title">{{ page.title }}</h1>
+<h1 style="position:fixed" id="title">Bookshelf</h1>
 
 <div class="rating-wrap">
     <div class="review-link"></div>
