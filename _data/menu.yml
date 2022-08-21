@@ -23,17 +23,11 @@ entries:
       show_more_text: See notes archive...
       show_more_url: ml-notes-archive.html
 
-  - title: <b>Book reflections</b>
-    post_list:
-      limit: 1
-      category: book-reflection
-      show_more: true
-      show_more_text: See more reflections...
-      show_more_url: book-reflection-archive.html
+  - title: <b>Bookshelf</b>
+    url: pages/bookshelf/shelf
 
-  - title: <b>All posts</b>
-    entries:
-      - title: <a href=" archive.html">Archive</a>
+  - title: <b>Archive</b>
+    url: pages/archive
 
   # - title: <b>Contact</b>
   #   entries:
