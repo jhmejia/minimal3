@@ -10,7 +10,7 @@
 <body>
 <div class="w">
 
-<a style="position:fixed" href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+<a style="position:fixed" href="{{ "/" | relative_url }}">TM</a>
 <h1 style="position:fixed" id="title">Bookshelf</h1>
 
 <div class="rating-wrap">
