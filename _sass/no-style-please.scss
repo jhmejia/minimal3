@@ -145,3 +145,47 @@ a:link {
 #sketch {
   position: relative
 }
+
+/*----------------------------------------*/
+/*               Bookshelf                */
+/*----------------------------------------*/
+
+.slider-wrap{
+  position: relative;
+  width: 100%;
+  height: 320px;
+  margin: auto;
+  overflow-x: scroll;
+}
+
+.slider-wrap::-webkit-scrollbar{
+  display: none;
+}
+
+.slider{
+  position: relative;
+  margin: auto;
+  height: 300px;
+  padding-top: 20px;
+  display: flex;
+  justify-content: start;
+}
+
+.slider-item{
+  position: relative;
+  display: inline;
+}
+
+#book-spine{
+  position: relative;
+  height: 300px;
+
+}
+
+.rating-wrap{
+  position: relative;
+  display: flex;
+  height: 50px;
+  margin: auto;
+  justify-content: center;
+}

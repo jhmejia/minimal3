@@ -1,74 +1,31 @@
 ---
+layout: page
+title: Bookshelf
 ---
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-<div class="w">
-
-<a style="position:fixed" href="{{ "/" | relative_url }}">TM</a>
-<h1 style="position:fixed" id="title">Bookshelf</h1>
-
-<div class="rating-wrap">
-    <div class="review-link"></div>
-    <a style="margin:auto" href="https://tomasmiskov.com/a-man-called-ove.html" target="_blank" id="review-link">Review</a>
-    <p style="margin:auto" id="rating">, Rating:</p>
-    <!-- <img class="stars" src="./stars/0.png"> -->
-</div>
 
 <div class="slider-wrap">
     <div class="slider">
         <div class="slider-item">
-            <div class="img-div"></div>
+            <img id="book-spine" src="">
         </div>
         <div class="slider-item">
-            <div class="img-div"></div>
+            <img id="book-spine" src="">
         </div>
         <div class="slider-item">
-            <div class="img-div"></div>
+            <img id="book-spine" src="">
         </div>
         <div class="slider-item">
-            <div class="img-div"></div>
+            <img id="book-spine" src="">
         </div>
     </div>
 </div>
 
-<script src="data.js"></script>
-<script src="app.js"></script>
-
-</div>
-</body>
-</html>
-
-<!-- <div>
-<link rel="stylesheet" href="style.css">
 <div class="rating-wrap">
-        <div class="review-link"></div>
-        <a style="margin:auto" href="https://tomasmiskov.com/a-man-called-ove.html" target="_blank" id="review-link">Review</a>
-        <p style="margin:auto">, Rating:</p>
-        <img class="stars", src="./pages/bookshelf/stars/10.png"></div>
-        
-<div class="slider-wrap">
-    <div class="slider">
-        <div class="slider-item">
-            <div class="img-div"></div>
-        </div>
-        <div class="slider-item">
-            <div class="img-div"></div>
-        </div>
-        <div class="slider-item">
-            <div class="img-div"></div>
-        </div>
-        <div class="slider-item">
-            <div class="img-div"></div>
-        </div>
-    </div>
+    <a style="line-height:52px" href="{{ "/book-reflection-archive" | relative_url }}" target="_blank" id="review-link">Review</a>
+    <p id="rating">, Rating: <b>?/10</b></p>
 </div>
 
-<script src="data.js"></script>
-<script src="app.js"></script>
-</div> -->
+<div>
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</div>
