@@ -156,6 +156,7 @@ a:link {
   height: 320px;
   margin: auto;
   overflow-x: scroll;
+  padding: 20px 0 20px;
 }
 
 .slider-wrap::-webkit-scrollbar{
@@ -167,6 +168,7 @@ a:link {
   margin: auto;
   height: 300px;
   padding-top: 20px;
+  margin-bottom: 20px;
   display: flex;
   justify-content: start;
 }
@@ -179,13 +181,16 @@ a:link {
 .book-spine{
   position: relative;
   height: 300px;
-
+  -webkit-filter: drop-shadow(5px 5px 5px #222222);
+  filter: drop-shadow(5px 5px 5px #222222);
 }
 
 .rating-wrap{
   position: relative;
   display: flex;
   height: 50px;
-  margin: auto;
+  margin-top: 50px;
+  text-align: center;
   justify-content: center;
+  flex-direction: column;
 }

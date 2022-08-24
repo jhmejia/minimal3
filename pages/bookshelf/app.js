@@ -28,8 +28,8 @@ items.forEach(item => {
  items.forEach((item, idx) => {
     item.addEventListener("mousemove", () => {
         item.style.bottom = "20px";
-        rating.innerHTML = `, Rating: <b>${data[idx].rating}/10</b>`;
-        reviewLink.textContent = `${data[idx].name}`
+        rating.innerHTML = `Rating: <b>${data[idx].rating}/10</b>`;
+        reviewLink.textContent = `${data[idx].name}`;
         reviewLink.href = `${data[idx].review}`;
     });
  })
@@ -37,7 +37,8 @@ items.forEach(item => {
  items.forEach(item => {
     item.addEventListener("mouseleave", () => {
         item.style.bottom = "0";
-        rating.innerHTML = ", Rating: <b>?/10</b>";
+        rating.innerHTML = "Rating: <b>?/10</b>";
+        reviewLink.textContent = `Review Archive`;
         // reviewLink.href = "https://tomasmiskov.com/book-reflection-archive";
     });
  })

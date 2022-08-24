@@ -16,7 +16,7 @@ let data = [
         "review": "https://tomasmiskov.com/a-man-called-ove.html",
     },
     {
-        "name" : "The unlikely Pilgrimage of Harold Fry",
+        "name" : "The Unlikely Pilgrimage of Harold Fry",
         "author": "Rachel Joyce",
         "url": "./images/The Unlikely Pilgrimage of Harold Fry.png", 
         "date": "21/07/22",
