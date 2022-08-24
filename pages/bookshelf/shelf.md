@@ -5,18 +5,7 @@ title: Bookshelf
 
 <div class="slider-wrap">
     <div class="slider">
-        <div class="slider-item">
-            <img id="book-spine" src="">
-        </div>
-        <div class="slider-item">
-            <img id="book-spine" src="">
-        </div>
-        <div class="slider-item">
-            <img id="book-spine" src="">
-        </div>
-        <div class="slider-item">
-            <img id="book-spine" src="">
-        </div>
+    <!-- Insert Books Here Using JS -->
     </div>
 </div>
 

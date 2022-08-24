@@ -1,14 +1,21 @@
 let sliderWrap = document.querySelector('.slider-wrap');
 let slider = document.querySelector('.slider');
 
+// Create book divs automatically
+for(let i = 0; i < Object.keys(data).length; i++){
+    slider.innerHTML += `<div class="slider-item"><img class="book-spine" src=""></div>`;
+}
+
+// Feel book divs with images
 let items = [...document.querySelectorAll('.slider-item')];
-let images = [...document.querySelectorAll('#book-spine')];
+let images = [...document.querySelectorAll('.book-spine')];
 
 images.forEach((image, idx) => {
     image.src = `${data[idx].url}`;
+    image.id = `${data[idx].name.replace(/\s+/g, '-').toLowerCase()}`;
 })
 
-// CLICKING ON BOOKS //
+// CLICKING ON BOOKS FUNCTIONALITY //
 let reviewLink = document.querySelector('#review-link');
 let rating = document.querySelector('#rating')
 
