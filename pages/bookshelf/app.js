@@ -37,8 +37,8 @@ items.forEach(item => {
  items.forEach(item => {
     item.addEventListener("mouseleave", () => {
         item.style.bottom = "0";
-        rating.innerHTML = "Rating: <b>?/10</b>";
-        reviewLink.textContent = `Review Archive`;
+        // rating.innerHTML = "Rating: <b>?/10</b>";
+        // reviewLink.textContent = `Review Archive`;
         // reviewLink.href = "https://tomasmiskov.com/book-reflection-archive";
     });
  })
