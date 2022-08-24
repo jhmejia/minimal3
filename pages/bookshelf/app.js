@@ -29,6 +29,7 @@ items.forEach(item => {
     item.addEventListener("mousemove", () => {
         item.style.bottom = "20px";
         rating.innerHTML = `, Rating: <b>${data[idx].rating}/10</b>`;
+        reviewLink.textContent = `${data[idx].name}`
         reviewLink.href = `${data[idx].review}`;
     });
  })
