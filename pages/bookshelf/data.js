@@ -28,7 +28,7 @@ let data = [
         "author": "Lyall Watson",
         "url": "./images/Neophilia.png", 
         "date": "20/08/22",
-        "rating": "7",
+        "rating": "8",
         "review": "https://tomasmiskov.com/neophilia.html",
     },
     {
