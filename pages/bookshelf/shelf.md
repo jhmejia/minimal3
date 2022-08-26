@@ -10,7 +10,7 @@ title: Bookshelf
 </div>
 
 <div class="rating-wrap">
-    <a href="{{ "/book-reflection-archive" | relative_url }}" target="_blank" id="review-link">Review Archive</a>
+    <a href="{{ "/book-reflection-archive" | relative_url }}" id="review-link">Review Archive</a>
     <p style="margin-top:10px" id="rating">Rating: <b>?/10</b></p>
 </div>
 
