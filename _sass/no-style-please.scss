@@ -155,8 +155,8 @@ a:link {
   width: 100%;
   height: 320px;
   margin: auto;
-  overflow-x: scroll;
   margin-top: 20px;
+  overflow: auto;
 }
 
 .slider-wrap::-webkit-scrollbar{
@@ -167,9 +167,11 @@ a:link {
   position: relative;
   margin: auto;
   height: 300px;
+  width: 4000px;
   padding-top: 20px;
-  display: flex;
   justify-content: start;
+  display: flex;
+  // flex: 1;
 }
 
 .slider-item{
