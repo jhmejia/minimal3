@@ -3,16 +3,21 @@ let slider = document.querySelector('.slider');
 
 // Create book divs automatically
 for(let i = 0; i < Object.keys(data).length; i++){
-    slider.innerHTML += `<div class="slider-item"><img class="book-spine" src=""></div>`;
+    slider.innerHTML += `<div class="slider-item"><a id="review-post-link" href=""><img class="book-spine" src=""></a></div>`;
 }
 
 // Feel book divs with images
 let items = [...document.querySelectorAll('.slider-item')];
 let images = [...document.querySelectorAll('.book-spine')];
+let aTags = [...document.querySelectorAll('#review-post-link')];
 
 images.forEach((image, idx) => {
     image.src = `${data[idx].url}`;
     image.id = `${data[idx].name.replace(/\s+/g, '-').toLowerCase()}`;
+})
+
+aTags.forEach((atag, idx) => {
+    atag.href = `${data[idx].review}`;
 })
 
 // CLICKING ON BOOKS FUNCTIONALITY //
