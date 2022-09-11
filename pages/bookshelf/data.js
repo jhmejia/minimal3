@@ -111,6 +111,14 @@ let data = [
         "rating": "7",
         "review": "https://tomasmiskov.com/the-schopenhauer-cure.html",
     },
+    {
+        "name" : "The Minds of Billy Milligan",
+        "author": "Daniel Keyes",
+        "url":  "./images/The Minds of Billy Milligan.png",  
+        "date": "11/09/22",
+        "rating": "7",
+        "review": "https://tomasmiskov.com/the-minds-of-billy-milligan.html",
+    }
 ]
 
 data.sort((a, b) => a.author.localeCompare(b.author));
