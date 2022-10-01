@@ -118,6 +118,14 @@ let data = [
         "date": "11/09/22",
         "rating": "7",
         "review": "https://tomasmiskov.com/the-minds-of-billy-milligan.html",
+    },
+    {
+        "name" : "The End of Everything",
+        "author": "Dr. Katherine (Katie) Mack",
+        "url":  "./images/The End of Everything.png",  
+        "date": "28/09/22",
+        "rating": "8.5",
+        "review": "https://tomasmiskov.com/the-end-of-everything.html",
     }
 ]
 
