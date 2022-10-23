@@ -39,7 +39,3 @@ plugins:
   - jekyll-seo-tag
 
 port: 4000
-
-credentials:
-  username: TomasMiskov
-  password: ${BDSo106.}
