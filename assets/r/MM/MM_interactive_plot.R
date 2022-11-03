@@ -81,7 +81,8 @@ fig <- fig %>%
   layout(sliders = list(list(active = 0,
                              currentvalue = list(prefix = "Step: "),
                              steps = steps)),
-         yaxis = list(fixedrange = TRUE, range = c(0, 4000)))
+         yaxis = list(fixedrange = TRUE, range = c(0, 4000)),
+         xaxis = list(fixedrange = TRUE))
 
 saveWidget(fig, 'MM_interactive_plot.html')
 
