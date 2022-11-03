@@ -64,7 +64,7 @@ fig <- add_lines(fig, x = betas, y = rss_y, visible = TRUE, name = 'RSS',
 for (i in 1:21) {
   fig <- add_lines(fig, x = aval[i][[1]]$x,  
                    y = aval[i][[1]]$y, visible = aval[i][[1]]$visible, 
-                   name = 'MM', type = 'scatter', 
+                   name = paste('Beta: ', round(i/21, 2)), type = 'scatter', 
                    mode = 'lines', hoverinfo = 'name', 
                    line = list(color = 'e63946'), showlegend = FALSE)
   
@@ -83,6 +83,7 @@ fig <- fig %>%
                              steps = steps)),
          yaxis = list(fixedrange = TRUE, range = c(0, 4000)),
          xaxis = list(fixedrange = TRUE))
-
+fig <- fig %>% config(displayModeBar = FALSE)
+fig
 saveWidget(fig, 'MM_interactive_plot.html')
 

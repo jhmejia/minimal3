@@ -42,4 +42,6 @@ We now have both our original function $SSR(\boldsymbol{b})$ and our majorizing 
 
 And there we go, we have all the ingredients we need now. As motivated in the introductory paragraph, to perform our iterative minimization, we just need to find a minimum of our majorizing function, and update our  $\boldsymbol{b}$ to the position of this minimum. Since the majorizing function is quadratic, finding its gradient is easy work. We obtain $\nabla g(\boldsymbol{b}, \boldsymbol{b_0}) = 2\lambda_{MAX}(\boldsymbol{b} - \boldsymbol{c_2})$ and setting this to 0, we can see that the optimal update is setting $\boldsymbol{b} = \boldsymbol{c_2}$. And that's all there is to it, we perform this update *k* number of times until the next update is so small (smaller than some chosen $\epsilon$), that we conclude we must have found the minimum of $SSR(\boldsymbol{b})$ given that $\boldsymbol{b} = \boldsymbol{b_k}$, namely the last obtained values for our regression coefficients in iteration *k*.
 
-<iframe src="assets/r/MM/MM_interactive_plot.html" height="600px" width="100%" style="border:none;"></iframe>
+Here is a small interactive example of how we would itteratively move the majorizing function until it coincides with the minimum of our $SSR$ function.
+
+<iframe src="assets/r/MM/MM_interactive_plot.html" height="500px" width="100%" style="border:none;"></iframe>
