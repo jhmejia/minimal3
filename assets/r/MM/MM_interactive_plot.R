@@ -84,6 +84,6 @@ fig <- fig %>%
          yaxis = list(fixedrange = TRUE, range = c(0, 4000)),
          xaxis = list(fixedrange = TRUE))
 fig <- fig %>% config(displayModeBar = FALSE)
-fig
+
 saveWidget(fig, 'MM_interactive_plot.html')
 
