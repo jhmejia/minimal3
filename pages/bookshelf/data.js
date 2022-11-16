@@ -126,6 +126,14 @@ let data = [
         "date": "28/09/22",
         "rating": "8.5",
         "review": "https://tomasmiskov.com/the-end-of-everything.html",
+    },
+    {
+        "name" : "Perfectly Reasonable Deviations from the Beaten Track",
+        "author": "Richard P. and Michelle Feynman",
+        "url":  "./images/Perfectly Reasonable Deviations.png",  
+        "date": "13/11/22",
+        "rating": "8.5",
+        "review": "https://tomasmiskov.com/perfectly-reasonable-deviations.html",
     }
 ]
 
