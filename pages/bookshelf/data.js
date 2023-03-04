@@ -134,6 +134,14 @@ let data = [
         "date": "13/11/22",
         "rating": "8.5",
         "review": "https://tomasmiskov.com/perfectly-reasonable-deviations.html",
+    },
+    {
+        "name" : "The Amazing Story of the Man Who Cycled from India to Europe for Love",
+        "author": "Per J. Andersson, Anna Holmwood (Translation)",
+        "url":  "./images/The Amazing Story.png",  
+        "date": "28/02/23",
+        "rating": "7",
+        "review": "https://tomasmiskov.com/the-amazing-story.html",
     }
 ]
 
