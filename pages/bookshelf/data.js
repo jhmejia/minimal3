@@ -142,6 +142,14 @@ let data = [
         "date": "28/02/23",
         "rating": "7",
         "review": "https://tomasmiskov.com/the-amazing-story.html",
+    },
+    {
+        "name" : "The Stranger",
+        "author": "Albert Camus",
+        "url":  "./images/The Stranger.png",  
+        "date": "08/03/23",
+        "rating": "6",
+        "review": "https://tomasmiskov.com/the-stranger.html",
     }
 ]
 
