@@ -150,6 +150,14 @@ let data = [
         "date": "08/03/23",
         "rating": "6",
         "review": "https://tomasmiskov.com/the-stranger.html",
+    },
+    {
+        "name" : "Anxious People",
+        "author": "Frederik Backman",
+        "url":  "./images/Anxious People.png",  
+        "date": "21/04/23",
+        "rating": "8",
+        "review": "https://tomasmiskov.com/anxious-people.html",
     }
 ]
 
