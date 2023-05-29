@@ -6,7 +6,7 @@ for(let i = 0; i < Object.keys(data).length; i++){
     slider.innerHTML += `<div class="slider-item"><a id="review-post-link" href=""><img class="book-spine" src=""></a></div>`;
 }
 
-// Feel book divs with images
+// Fill book divs with images
 let items = [...document.querySelectorAll('.slider-item')];
 let images = [...document.querySelectorAll('.book-spine')];
 let aTags = [...document.querySelectorAll('#review-post-link')];
