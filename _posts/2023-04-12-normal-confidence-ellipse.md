@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Drawing 2D Confidence Level Ellipses
-category: learning
+category: 
 ---
 ### What is this post about?
 In this post we will learn how to plot error or confidence bound ellipses around samples of bivariate-normal data. Along the way we will meet our good old friends eigenvalues and eigenvectors, which, let's be frank, follow us wherever we go. Chi Square distribution will also join us, so I promise, what seems at first as an easy tasks, will turn out to be a tasty intellectual snack.
