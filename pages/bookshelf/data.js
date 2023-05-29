@@ -158,6 +158,14 @@ let data = [
         "date": "21/04/23",
         "rating": "8",
         "review": "https://tomasmiskov.com/anxious-people.html",
+    },
+    {
+        "name" : "Helgoland",
+        "author": "Carlo Rovelli",
+        "url":  "./images/Helgoland.png",  
+        "date": "29/05/23",
+        "rating": "8",
+        "review": "https://tomasmiskov.com/helgoland.html",
     }
 ]
 
