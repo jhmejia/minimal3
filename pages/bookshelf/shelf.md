@@ -10,7 +10,7 @@ title: Bookshelf
 </div>
 
 <div class="rating-wrap">
-    <a href="{{ "/book-reflection-archive" | relative_url }}" id="review-link">Review Archive</a>
+    <a href="{{ '/book-reflection-archive' | relative_url }}" id="review-link">Review Archive</a>
     <p style="margin-top:10px" id="rating">Rating: <b>?/10</b></p>
 </div>
 
@@ -18,3 +18,5 @@ title: Bookshelf
     <script src="data.js"></script>
     <script src="app.js"></script>
 </div>
+
+*to scroll the shelf using your mouse press SHIFT key then scroll
