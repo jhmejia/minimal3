@@ -90,7 +90,7 @@ let data = [
     {
         "name" : "Flowers for Algernon",
         "author": "Daniel Keyes",
-        "url": "./images/E-reader.png",  
+        "url": "./images/Flowers for Algernon.png",  
         "date": "28/07/21",
         "rating": "10",
         "review": "https://tomasmiskov.com/flowers-for-algernon.html",
@@ -106,7 +106,7 @@ let data = [
     {
         "name" : "The Schopenhauer Cure",
         "author": "Irvin D. Yalom",
-        "url":  "./images/E-reader.png",  
+        "url":  "./images/The Schopenhauer Cure.png",  
         "date": "10/01/22",
         "rating": "7",
         "review": "https://tomasmiskov.com/the-schopenhauer-cure.html",
@@ -166,6 +166,14 @@ let data = [
         "date": "29/05/23",
         "rating": "8",
         "review": "https://tomasmiskov.com/helgoland.html",
+    },
+    {
+        "name" : "Zero - The Biography of a Dangerous Idea",
+        "author": "Charles Seife",
+        "url":  "./images/Zero.png",  
+        "date": "10/06/23",
+        "rating": "8",
+        "review": "https://tomasmiskov.com/zero.html",
     }
 ]
 
