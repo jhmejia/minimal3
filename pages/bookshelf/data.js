@@ -174,6 +174,14 @@ let data = [
         "date": "10/06/23",
         "rating": "8",
         "review": "https://tomasmiskov.com/zero.html",
+    },
+    {
+        "name" : "Papillon",
+        "author": "Henri Charrière",
+        "url":  "./images/Papillon.png",  
+        "date": "05/07/23",
+        "rating": "10",
+        "review": "https://tomasmiskov.com/papillon.html",
     }
 ]
 
