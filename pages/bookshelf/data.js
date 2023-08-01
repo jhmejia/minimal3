@@ -182,6 +182,14 @@ let data = [
         "date": "05/07/23",
         "rating": "10",
         "review": "https://tomasmiskov.com/papillon.html",
+    },
+    {
+        "name" : "Dying To Be Me",
+        "author": "Anita Moorjani",
+        "url":  "./images/Dying To Be Me.png",  
+        "date": "31/07/23",
+        "rating": "4",
+        "review": "https://tomasmiskov.com/dying-to-be-me.html",
     }
 ]
 
