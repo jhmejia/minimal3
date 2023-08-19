@@ -190,6 +190,14 @@ let data = [
         "date": "31/07/23",
         "rating": "4",
         "review": "https://tomasmiskov.com/dying-to-be-me.html",
+    },
+    {
+        "name" : "Anaximander",
+        "author": "Carlo Rovelli",
+        "url":  "./images/Anaximander.png",  
+        "date": "19/08/23",
+        "rating": "8.5",
+        "review": "https://tomasmiskov.com/anaximander.html",
     }
 ]
 
