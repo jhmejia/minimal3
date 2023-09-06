@@ -4,6 +4,10 @@ title: Matrix Tree Theorem - Actually Explained
 category: learning
 ---
 
+<div class="iframe-container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/dpzZBrgTjL0?si=vwsvCgJUKZe5QUG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ### Intro
 This is a graph. It consists of nodes connected by edges. A spanning tree, is a subgraph that connects all the nodes without forming any loops. In this graph we can count 8 such trees. But what if we are interested in a much larger graph? How many trees does it contain? Clearly counting them by hand isn't feasible anymore. In fact, as the graph grows in the number of nodes, the number of trees may grow exponentially, so counting them by hand would literally take you a lifetime. Is there then a mathematical shortcut for counting the number of trees in a graph? Turns out there is, and a very fascinating one, here's how it works:
 
