@@ -198,6 +198,14 @@ let data = [
         "date": "19/08/23",
         "rating": "8.5",
         "review": "https://tomasmiskov.com/anaximander.html",
+    },
+    {
+        "name" : "The Myth of Normal",
+        "author": "Gabor Maté",
+        "url":  "./images/The Myth of Normal.png",  
+        "date": "15/09/23",
+        "rating": "8",
+        "review": "https://tomasmiskov.com/the-myth-of-normal.html",
     }
 ]
 
