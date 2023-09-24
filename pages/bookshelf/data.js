@@ -206,6 +206,14 @@ let data = [
         "date": "15/09/23",
         "rating": "8",
         "review": "https://tomasmiskov.com/the-myth-of-normal.html",
+    },
+    {
+        "name" : "Banco",
+        "author": "Henri Charrière",
+        "url":  "./images/Banco.png",  
+        "date": "22/09/23",
+        "rating": "9",
+        "review": "https://tomasmiskov.com/banco.html",
     }
 ]
 
