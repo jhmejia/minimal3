@@ -19,4 +19,4 @@ title: Bookshelf
     <script src="app.js"></script>
 </div>
 
-*to scroll the shelf using your mouse press SHIFT key then scroll
+*to scroll the shelf using your mouse press SHIFT-key, then scroll
