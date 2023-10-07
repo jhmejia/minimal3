@@ -214,6 +214,14 @@ let data = [
         "date": "22/09/23",
         "rating": "9",
         "review": "https://tomasmiskov.com/banco.html",
+    },
+    {
+        "name" : "The Shell Collector",
+        "author": "Anthony Doerr",
+        "url":  "./images/The Shell Collector.png",  
+        "date": "05/10/23",
+        "rating": "8",
+        "review": "https://tomasmiskov.com/the-shell-collector.html",
     }
 ]
 
