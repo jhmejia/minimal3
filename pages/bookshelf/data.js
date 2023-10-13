@@ -222,6 +222,14 @@ let data = [
         "date": "05/10/23",
         "rating": "8",
         "review": "https://tomasmiskov.com/the-shell-collector.html",
+    },
+    {
+        "name" : "A Mathematician's Apology",
+        "author": "Godfrey Harold Hardy",
+        "url":  "./images/A Mathematician's Apology.png",  
+        "date": "08/10/23",
+        "rating": "8",
+        "review": "https://tomasmiskov.com/mathematicians-apology.html",
     }
 ]
 
