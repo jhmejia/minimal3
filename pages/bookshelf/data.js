@@ -230,6 +230,14 @@ let data = [
         "date": "08/10/23",
         "rating": "8",
         "review": "https://tomasmiskov.com/mathematicians-apology.html",
+    },
+    {
+        "name" : "Tribes",
+        "author": "Seth Godin",
+        "url":  "./images/Tribes.png",  
+        "date": "25/10/23",
+        "rating": "6.5",
+        "review": "https://tomasmiskov.com/tribes.html",
     }
 ]
 
