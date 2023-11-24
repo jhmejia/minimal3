@@ -238,6 +238,14 @@ let data = [
         "date": "25/10/23",
         "rating": "6.5",
         "review": "https://tomasmiskov.com/tribes.html",
+    },
+    {
+        "name" : "This Perfect Day",
+        "author": "Ira Levin",
+        "url":  "./images/This Perfect Day.png",  
+        "date": "23/11/23",
+        "rating": "8.5",
+        "review": "https://tomasmiskov.com/this-perfect-day.html",
     }
 ]
 
