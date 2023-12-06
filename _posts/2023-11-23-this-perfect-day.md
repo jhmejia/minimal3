@@ -5,7 +5,7 @@ category: book-reflection
 ---
 
 ### Rating
-**8.5/10** I got hooked in from the very beginning. The story is very clear and sucks you in from the get go. As it develops, the author poses thought provoking questions about individuality and creativity versus utilitarian optimization. What is the prize of perfectly functioning society where every member is like every other? Are we willing to forgo individual expression for the economic stability of the human race? And how does one break the cycle of conformity and becomes unique?
+**8.5/10** I got hooked from the very beginning. The story is very clear and sucks you in from the get go. As it develops, the author poses thought provoking questions about individuality and creativity versus utilitarian optimization. What is the prize of perfectly functioning society where every member is like every other? Are we willing to forgo individual expression for the economic stability of the human race? And how does one break the cycle of conformity and becomes unique?
 
 Although unique in its style of writing and the details of the utopian world, the book is very similar to Orwell's 1984. This is not necessarily bad but I think it might have hindered the success of the book as it got compared to Orwell's writing and failed to trump it.   
 
