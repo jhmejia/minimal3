@@ -246,6 +246,14 @@ let data = [
         "date": "23/11/23",
         "rating": "8.5",
         "review": "https://tomasmiskov.com/this-perfect-day.html",
+    },
+    {
+        "name" : "Endurance",
+        "author": "Alfred Lansing",
+        "url":  "./images/Endurance.png",  
+        "date": "02/01/24",
+        "rating": "9",
+        "review": "https://tomasmiskov.com/endurance.html",
     }
 ]
 
