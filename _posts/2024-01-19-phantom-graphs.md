@@ -8,11 +8,11 @@ dependencies:
 
 <!-- video embed -->
 <div class="iframe-container">
-<iframe class="responsive-iframe" src="https://youtu.be/d6BKD1IDi6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.youtube.com/watch?v=d6BKD1IDi6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ### Intro 
-Hey! Hi! If you are here from the video above, thanks for watching! Below are two interactive plots where you can play with general phantom graphs of 2nd- and 3rd-degree polynomials. You'll probably have the best user experience on PC but if you insist on mobile, turn your device sideways and click on the *full-screen view* button in the bottom right corner of the web app.
+Hey! Hi! If you are here from the video above, thanks for watching! Below are two interactive plots where you can play with general phantom graphs of 2nd- and 3rd-degree polynomials. You'll probably have the best user experience on PC but if you insist on mobile, turn your device sideways, reload and click on the *full-screen view* button in the bottom right corner of the web app.
 
 If you haven't seen the above video, I highly recommend watching it (*note I am really biased*) and then playing with the graphs below. In the video I explain what **phantom graphs** are and why literally every graph you plotted in the past, has a hidden part (when plotted in the *"phantom"* way). 
 
