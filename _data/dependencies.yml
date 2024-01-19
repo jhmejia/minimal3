@@ -6,3 +6,6 @@
 
 - name: mathjs
   element: <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.0.1/math.min.js"></script>
+
+- name: geogebra
+  element: <script src="https://cdn.geogebra.org/apps/deployggb.js"></script>
