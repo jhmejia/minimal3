@@ -12,7 +12,7 @@ dependencies:
 </div>
 
 ### Intro 
-Hey! Hi! If you are here from the video above, thanks for watching! Below are two interactive plots where you can play with general phantom graphs of 2nd- and 3rd-degree polynomials. You'll probably have the best user experience on PC but if you insist on mobile, turn your device sideways, reload and click on the *full-screen view* button in the bottom right corner of the web app.
+Hey! Hi! If you are here from the video above, thanks for watching! Below are two interactive plots where you can play with general phantom graphs of 2nd- and 3rd-degree polynomials. You'll have the **best user experience on PC** but if you insist on mobile, it might work if you open the graphs in a new window or a dedicated [GeoGebra app](https://www.geogebra.org/download?lang=en). [Here's a link](https://www.geogebra.org/classic/keyhrbab) for the first interactive graph. And [here's a second one](https://www.geogebra.org/classic/thetzf32). If it doesn't work as expected, I'm sorry. It's really great on PC, I promise.
 
 If you haven't seen the above video, I highly recommend watching it (*note I am really biased*) and then playing with the graphs below. In the video I explain what **phantom graphs** are and why literally every graph you plotted in the past, has a hidden part (when plotted in the *"phantom"* way). 
 
