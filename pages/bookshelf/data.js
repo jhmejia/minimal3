@@ -254,6 +254,14 @@ let data = [
         "date": "02/01/24",
         "rating": "9",
         "review": "https://tomasmiskov.com/endurance.html",
+    },
+    {
+        "name" : "The Web of Life",
+        "author": "John H. Storer",
+        "url":  "./images/The Web of Life.png",  
+        "date": "21/01/24",
+        "rating": "9",
+        "review": "https://tomasmiskov.com/the-web-of-life.html",
     }
 ]
 

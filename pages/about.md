@@ -5,7 +5,7 @@ title: About
 
 ### Who is Tomáš Miškov?
 
-A Slovak guy living in Amsterdam that can best be described as:
+A Slovak guy (still) living in Amsterdam that can best be described as:
 
 * student
 * gym rat
