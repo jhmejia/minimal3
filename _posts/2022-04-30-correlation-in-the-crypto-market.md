@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Correlation in the Crypto Market
-category: learning
+category: misc
 ---
 
 ### What is this post about?

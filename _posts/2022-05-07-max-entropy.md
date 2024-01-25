@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maximum Entropy Classifier
-category: ml-notes
+category: learning
 ---
 
 ### Entropy

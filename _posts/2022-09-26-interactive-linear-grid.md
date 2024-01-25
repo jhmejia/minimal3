@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interactive linear grid
-category: learning
+category: misc
 dependencies:
     - p5
 ---

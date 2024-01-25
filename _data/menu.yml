@@ -6,6 +6,8 @@ entries:
     entries:
       - title: About
         url: pages/about
+      - title: Updates
+        url: pages/updates
 
   - title: <b>Learning posts</b>
     post_list:
@@ -15,18 +17,18 @@ entries:
       show_more_text: See learning archive...
       show_more_url: learning-archive.html
 
-  - title: <b>ML Notes</b>
+  - title: <b>Miscellaneous (fun)</b>
     post_list:
       limit: 3
-      category: ml-notes
+      category: misc
       show_more: true
-      show_more_text: See notes archive...
-      show_more_url: ml-notes-archive.html
+      show_more_text: See misc. archive...
+      show_more_url: misc-archive.html
 
   - title: <b>Bookshelf</b>
     url: pages/bookshelf/shelf
 
-  - title: <b>Archive</b>
+  - title: <b>Chronological archive</b>
     url: pages/archive
 
   # - title: <b>Contact</b>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interactive visualization of eigenvectors
-category: ml-notes
+category: misc
 dependencies:
     - p5
     - mathjs

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflections on Pain
-category: learning
+category: misc
 ---
 
 Pain is great! Pain puts things in perspective. Pain reminds you that nothing is absolute. Every sensation, feeling, perception, experience is relative. Relative to the experiences of others. But more importantly, relative to your own lived experiences (and your still to be experienced moments, but more on that at the end).

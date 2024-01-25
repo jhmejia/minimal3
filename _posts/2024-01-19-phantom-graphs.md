@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Phantom Graphs
-category: learning
+category: misc
 dependencies: 
     - geogebra
 ---
