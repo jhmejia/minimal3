@@ -262,6 +262,14 @@ let data = [
         "date": "21/01/24",
         "rating": "9",
         "review": "https://tomasmiskov.com/the-web-of-life.html",
+    },
+    {
+        "name" : "OPEN",
+        "author": "Andre Agassi",
+        "url":  "./images/OPEN.png",  
+        "date": "10/02/24",
+        "rating": "9",
+        "review": "https://tomasmiskov.com/open.html",
     }
 ]
 
