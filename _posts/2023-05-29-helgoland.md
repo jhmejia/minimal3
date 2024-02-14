@@ -7,6 +7,15 @@ category: book-reflection
 ### Rating
 **8/10** A book about quantum mechanics that's easy to read - that's certainly something! A very well written piece that both explains quantum mechanics to anyone without assuming any prior knowledge and explores the philosophy behind how quantum mechanics changes our perception of the fabric of reality. I honestly enjoyed both "sides" of the book, although I didn't expect it to turn so philosophical in the second half. That said, you will finish the book with learning about how quantum theory was developed, what it entails at the atomic level, and how it shifts our understanding of the world from an object-oriented perspective to a relational perspective. Everything that's "real" is only "real" by a relation to something else. A chair is a chair because it exists within a context, and we interact with it. By itself, it's nothing. Strange, huh? I didn't say the book makes it easier to understand or accept the consequences of quantum theory. It's just nice, because it plainly explains what the consequences are. For anyone curious about what quantum theory is, very recommended. And for anyone who's familiar with quantum theory but would like to get a philosophical overview of different outlooks on what it means for the fabric of reality, also very recommended. Enjoy!
 
+I also really liked the cover artwork so I went ahead and made an animated version. Turn the sound on for the full experience :)
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <video controls loop autoplay muted style="max-width: 100%; max-height: 100%; border-radius: 20px;">
+        <source src="pages\bookshelf\videos\helgoland_animated_book.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
 ### Synopsis
 A 23-year-old Werner Heisenberg travels to Helgoland, a remote island in the North Sea, where, after days of thinking and calculations, he lays down the groundwork of quantum theory. The year is 1925. Since then, the theory has undergone major updates and revisions, which eventually led to its firm placement not only in physics but also in biology, engineering, philosophy, and many more fields. The book explains first the developments since 1925 and then the philosophical implications of quantum inference and entanglement for the way we understand and interpret reality.
 
