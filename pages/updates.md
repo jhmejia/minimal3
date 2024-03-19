@@ -6,6 +6,8 @@ edited-on: 2024-24-01
 
 Here I post short chronological updates about my life. Little snippets of what's going on.
 
+- **2024-03-12** Month and a week post surgery. Still residual pain but healing well. Exercising more and more - life will be good! It has to!
+
 - **2024-02-12** Surgery was a success, missing 3rd of my vertebrae but not really missing it - you know what I mean :) Still in a lot of pain but healing is happening. Actually seems like there will be an end to this journey
 
 - **2024-01-12** Met with the surgeon... surgery scheduled for the 1st of Feb. Will this ever end? 
