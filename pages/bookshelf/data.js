@@ -270,6 +270,14 @@ let data = [
         "date": "10/02/24",
         "rating": "9",
         "review": "https://tomasmiskov.com/open.html",
+    },
+    {
+        "name" : "The Solutions Are Already Here",
+        "author": "Peter Gelderloos",
+        "url":  "./images/The Solutions Are Already Here.png",  
+        "date": "04/04/24",
+        "rating": "6.5",
+        "review": "https://tomasmiskov.com/solutions-are-here.html",
     }
 ]
 
