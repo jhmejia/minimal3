@@ -274,7 +274,7 @@ let data = [
     {
         "name" : "The Solutions Are Already Here",
         "author": "Peter Gelderloos",
-        "url":  "./images/The Solutions Are Already Here.png",  
+        "url":  "./images/Solutions Are Already Here.png",  
         "date": "04/04/24",
         "rating": "6.5",
         "review": "https://tomasmiskov.com/solutions-are-here.html",
