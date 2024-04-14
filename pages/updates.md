@@ -6,6 +6,8 @@ edited-on: 2024-24-01
 
 Here I post short chronological updates about my life. Little snippets of what's going on.
 
+- **2024-04-14** Getting close to finishing my master's thesis that got interupted by chemo :) it's nothing spectacular, but it's getting close to the finish line. Only once it's done, I'll truly feel like the cancer fight is over. And of course it's going to linger with us (me and all the people I consider family) for the foreseeable future, but the acute phase will be done for!
+
 - **2024-03-12** Month and a week post surgery. Still residual pain but healing well. Exercising more and more - life will be good! It has to!
 
 - **2024-02-12** Surgery was a success, missing 3rd of my vertebrae but not really missing it - you know what I mean :) Still in a lot of pain but healing is happening. Actually seems like there will be an end to this journey

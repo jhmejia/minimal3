@@ -278,6 +278,14 @@ let data = [
         "date": "04/04/24",
         "rating": "6.5",
         "review": "https://tomasmiskov.com/solutions-are-here.html",
+    },
+    {
+        "name" : "Brave New World",
+        "author": "Aldous Huxley",
+        "url":  "./images/Brave New World.png",  
+        "date": "04/14/24",
+        "rating": "7",
+        "review": "https://tomasmiskov.com/brave-new-world.html",
     }
 ]
 
