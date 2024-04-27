@@ -286,6 +286,14 @@ let data = [
         "date": "04/14/24",
         "rating": "7",
         "review": "https://tomasmiskov.com/brave-new-world.html",
+    },
+    {
+        "name" : "Brave New World Revisited",
+        "author": "Aldous Huxley",
+        "url":  "./images/Brave New World Revisited.png",  
+        "date": "04/27/24",
+        "rating": "9",
+        "review": "https://tomasmiskov.com/brave-new-world-revisited.html",
     }
 ]
 
