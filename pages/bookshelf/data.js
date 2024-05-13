@@ -294,6 +294,14 @@ let data = [
         "date": "04/27/24",
         "rating": "9",
         "review": "https://tomasmiskov.com/brave-new-world-revisited.html",
+    },
+    {
+        "name" : "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "url":  "./images/To Kill a Mockingbird.png",  
+        "date": "05/13/24",
+        "rating": "7",
+        "review": "https://tomasmiskov.com/to-kill-a-mockingbird.html",
     }
 ]
 
