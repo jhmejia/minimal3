@@ -6,6 +6,8 @@ edited-on: 2024-24-01
 
 Here I post short chronological updates about my life. Little snippets of what's going on.
 
+- **2024-06-12** All healed, feeling quite well. Currently spending my time enjoying life that's worth living and reflecting on the past year of treatment. Also sent out some applications for jobs and PhDs, I will see how the (potential) interviews turn out and where my heart will lead me. To be continued...
+
 - **2024-05-13** I got my [port-a-cath](https://en.wikipedia.org/wiki/Port_(medical)) surgically removed. Exactly one day to a tee for the one year first-drop-of-chemo anniversary. Another 2-4 weeks for the cut to heal and hopefully no more medical procedures except for the regular scans in the foreseeable future!
 
 - **2024-04-14** Getting close to finishing my master's thesis that got interupted by chemo :) it's nothing spectacular, but it's getting close to the finish line. Only once it's done, I'll truly feel like the cancer fight is over. And of course it's going to linger with us (me and all the people I consider family) for the foreseeable future, but the acute phase will be done for!
