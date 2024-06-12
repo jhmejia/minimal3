@@ -302,6 +302,14 @@ let data = [
         "date": "05/13/24",
         "rating": "7",
         "review": "https://tomasmiskov.com/to-kill-a-mockingbird.html",
+    },
+    {
+        "name" : "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "url":  "./images/Thinking Fast and Slow.png",  
+        "date": "06/12/24",
+        "rating": "10",
+        "review": "https://tomasmiskov.com/thinking-fast-and-slow.html",
     }
 ]
 
