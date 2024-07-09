@@ -310,6 +310,14 @@ let data = [
         "date": "06/12/24",
         "rating": "10",
         "review": "https://tomasmiskov.com/thinking-fast-and-slow.html",
+    },
+    {
+        "name" : "Exploration Fawcett: Journey to the Lost City of Z",
+        "author": "Percy Fawcett",
+        "url":  "./images/Exploration Fawcett.png",  
+        "date": "07/08/24",
+        "rating": "7.5",
+        "review": "https://tomasmiskov.com/exploration-fawcett.html",
     }
 ]
 
