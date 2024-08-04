@@ -318,6 +318,14 @@ let data = [
         "date": "07/08/24",
         "rating": "7.5",
         "review": "https://tomasmiskov.com/exploration-fawcett.html",
+    },
+    {
+        "name" : "The Cell",
+        "author": "Joshua Z. Rappoport",
+        "url":  "./images/The Cell.png",  
+        "date": "07/26/24",
+        "rating": "7",
+        "review": "https://tomasmiskov.com/the-cell.html",
     }
 ]
 
