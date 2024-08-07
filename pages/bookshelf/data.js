@@ -326,6 +326,14 @@ let data = [
         "date": "07/26/24",
         "rating": "7",
         "review": "https://tomasmiskov.com/the-cell.html",
+    },
+    {
+        "name" : "Lord of the Flies",
+        "author": "William Golding",
+        "url":  "./images/Lord of the Flies.png",  
+        "date": "08/05/24",
+        "rating": "5",
+        "review": "https://tomasmiskov.com/lord-of-flies.html",
     }
 ]
 
