@@ -334,6 +334,14 @@ let data = [
         "date": "08/05/24",
         "rating": "5",
         "review": "https://tomasmiskov.com/lord-of-flies.html",
+    },
+    {
+        "name" : "The Book of Laughter and Forgetting",
+        "author": "Milan Kundera",
+        "url":  "./images/The Book of Laughter and Forgetting.png",  
+        "date": "08/25/24",
+        "rating": "7.5",
+        "review": "https://tomasmiskov.com/book-of-laughter-and-forgetting.html",
     }
 ]
 
