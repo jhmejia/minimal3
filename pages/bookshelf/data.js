@@ -342,6 +342,14 @@ let data = [
         "date": "08/25/24",
         "rating": "7.5",
         "review": "https://tomasmiskov.com/book-of-laughter-and-forgetting.html",
+    },
+    {
+        "name" : "The Blind Watchmaker",
+        "author": "Richard Dawkins",
+        "url":  "./images/The Blind Watchmaker.png",  
+        "date": "09/27/24",
+        "rating": "8",
+        "review": "https://tomasmiskov.com/the-blind-watchmaker.html",
     }
 ]
 
