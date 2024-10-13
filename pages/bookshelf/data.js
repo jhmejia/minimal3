@@ -350,6 +350,14 @@ let data = [
         "date": "09/27/24",
         "rating": "8",
         "review": "https://tomasmiskov.com/the-blind-watchmaker.html",
+    },
+    {
+        "name" : "The Creative Act",
+        "author": "Rick Rubin",
+        "url":  "./images/The Creative Act.png",  
+        "date": "10/13/24",
+        "rating": "5",
+        "review": "https://tomasmiskov.com/the-creative-act.html",
     }
 ]
 
