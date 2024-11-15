@@ -358,6 +358,22 @@ let data = [
         "date": "10/13/24",
         "rating": "5",
         "review": "https://tomasmiskov.com/the-creative-act.html",
+    },
+    {
+        "name" : "Man's Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "url":  "./images/Man's Search for Meaning.png",  
+        "date": "10/25/24",
+        "rating": "8",
+        "review": "https://tomasmiskov.com/mans-search-for-meaning.html",
+    },
+    {
+        "name" : "Educated",
+        "author": "Tara Westover",
+        "url":  "./images/Educated.png",  
+        "date": "11/13/24",
+        "rating": "8",
+        "review": "https://tomasmiskov.com/educated.html",
     }
 ]
 
