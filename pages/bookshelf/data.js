@@ -374,6 +374,14 @@ let data = [
         "date": "11/13/24",
         "rating": "8",
         "review": "https://tomasmiskov.com/educated.html",
+    },
+    {
+        "name" : "Entangled Life",
+        "author": "Merlin Sheldrake",
+        "url":  "./images/Entangled Life.png",  
+        "date": "12/02/24",
+        "rating": "8",
+        "review": "https://tomasmiskov.com/entangled_life.html",
     }
 ]
 
