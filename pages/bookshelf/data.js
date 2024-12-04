@@ -381,7 +381,7 @@ let data = [
         "url":  "./images/Entangled Life.png",  
         "date": "12/02/24",
         "rating": "8",
-        "review": "https://tomasmiskov.com/entangled_life.html",
+        "review": "https://tomasmiskov.com/entangled-life.html",
     }
 ]
 
