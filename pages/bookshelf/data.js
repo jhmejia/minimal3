@@ -382,6 +382,14 @@ let data = [
         "date": "12/02/24",
         "rating": "8",
         "review": "https://tomasmiskov.com/entangled-life.html",
+    },
+    {
+        "name" : "An Evil Cradling",
+        "author": "Brian Keenan",
+        "url":  "./images/An Evil Cradling.png",  
+        "date": "20/02/24",
+        "rating": "7.5",
+        "review": "https://tomasmiskov.com/evil-cradling.html",
     }
 ]
 
