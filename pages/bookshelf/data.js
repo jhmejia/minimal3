@@ -390,6 +390,14 @@ let data = [
         "date": "20/02/24",
         "rating": "7.5",
         "review": "https://tomasmiskov.com/evil-cradling.html",
+    },
+    {
+        "name" : "The Nature of Nature",
+        "author": "Enric Sala",
+        "url":  "./images/The Nature of Nature.png",  
+        "date": "31/12/24",
+        "rating": "10",
+        "review": "https://tomasmiskov.com/nature-of-nature.html",
     }
 ]
 
