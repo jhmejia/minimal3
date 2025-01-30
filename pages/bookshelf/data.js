@@ -398,6 +398,14 @@ let data = [
         "date": "31/12/24",
         "rating": "10",
         "review": "https://tomasmiskov.com/nature-of-nature.html",
+    },
+    {
+        "name" : "Love Triangle",
+        "author": "Matt Parker",
+        "url":  "./images/Love Triangle.png",  
+        "date": "22/01/25",
+        "rating": "8",
+        "review": "https://tomasmiskov.com/love-triangle.html",
     }
 ]
 
