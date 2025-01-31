@@ -6,5 +6,4 @@ gem "kramdown-parser-gfm"
 gem "webrick"
 gem 'wdm' if Gem.win_platform?
 
-
 gemspec

@@ -3,7 +3,62 @@ layout: page
 title: Bookshelf
 ---
 <!-- <link rel="stylesheet" href="{{ '/assets/css/font-awesome/all.css' | relative_url }}"> -->
+<style>
+/*----------------------------------------*/
+/*               Bookshelf                */
+/*----------------------------------------*/
 
+.slider-wrap{
+  position: relative;
+  width: 100%;
+  height: 320px;
+  margin: auto;
+  margin-top: 20px;
+  overflow: auto;
+}
+
+.slider-wrap::-webkit-scrollbar{
+  display: none;
+}
+
+.slider{
+  position: relative;
+  margin: auto;
+  height: 300px;
+  width: 1900px;
+  padding-top: 20px;
+  justify-content: start;
+  display: flex;
+  // flex: 1;
+}
+
+.slider-item{
+  position: relative;
+  display: inline;
+}
+
+.slide:hover{
+  bottom: 20px;
+}
+
+.book-spine{
+  position: relative;
+  height: 300px;
+  padding-right: 20px;
+  // -webkit-filter: drop-shadow(5px 5px 5px #222222);
+  // filter: drop-shadow(5px 5px 5px #222222);
+}
+
+.rating-wrap{
+  position: relative;
+  display: flex;
+  height: 50px;
+  margin-top: 50px;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+}
+</style>
 
 <div class="slider-wrap">
     <div class="slider">
