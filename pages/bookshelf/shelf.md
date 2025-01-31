@@ -2,6 +2,8 @@
 layout: page
 title: Bookshelf
 ---
+<link rel="stylesheet" href="{{ '/assets/css/font-awesome/all.css' | relative_url }}">
+
 
 <div class="slider-wrap">
     <div class="slider">
