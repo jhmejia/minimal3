@@ -5,7 +5,7 @@ email: miskov.tomi@gmail.com # email of site's author
 url: https://tomasmiskov.com # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A tiny "peace" of internet curated by Tomas Miskov - math, animation, learning and life.
+  A tiny "peace" of internet curated by Tomas Miskov - math, animation, learning, and life.
 
 social:
   name: Tomas Miskov
