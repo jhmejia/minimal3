@@ -7,4 +7,4 @@ gem "webrick"
 gem 'wdm' if Gem.win_platform?
 
 gem "github-pages"
-gem "jekyll-remote-theme"
+# gem "jekyll-remote-theme"
