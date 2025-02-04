@@ -1,35 +1,20 @@
 email:
-  id: 'miskov.tomi@gmail.com'
-  href: 'mailto: miskov.tomi@gmail.com'
+  id: 'jhmrow@gmail.com'
+  href: 'mailto: jhmrow@gmail.com'
   title: 'Email'
   fa-icon: 'fa-solid fa-paper-plane'
 
-instagram:
-  id: 'Imot Voksim'
-  href: 'https://instagram.com/imotvoksim/'
-  title: 'Instagram'
-  fa-icon: 'fa-solid fa-hashtag'
 
-twitter:
-  id: 'Tomas Miskov'
-  href: 'https://twitter.com/ImotVoksim'
-  title: 'Twitter'
-  fa-icon: 'fa-brands fa-twitter'
 
 github:
-  id: 'TomasMiskov'
-  href: 'https://github.com/TomasMiskov'
+  id: 'jhmejia'
+  href: 'https://github.com/jhmejia'
   title: 'GitHub'
   fa-icon: 'fa-brands fa-github'
 
-youtube:
-  id: 'Tomas Miskov'
-  href: 'https://www.youtube.com/channel/UCUaOtnzPiHKSIAsM_Nu6-bQ'
-  title: 'YouTube'
-  fa-icon: 'fa-brands fa-youtube'
 
 linkedin:
-  id: 'Tomas Miskov'
-  href: 'https://www.linkedin.com/in/tom%C3%A1%C5%A1-mi%C5%A1kov-82aa44135/'
+  id: 'John Henry Mejia'
+  href: 'https://www.linkedin.com/in/johnhenrymejia/'
   title: 'LinkedIn'
   fa-icon: 'fa-brands fa-linkedin-in'
