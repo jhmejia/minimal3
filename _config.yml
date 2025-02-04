@@ -1,31 +1,30 @@
-title: Tomas Miskov # name of the site
+title: John Henry Mejia
 tagline: Personal blog about data science, machine learning and other random interests of Tomas Miskov
-author: Tomas Miskov # name of site's author
-email: miskov.tomi@gmail.com # email of site's author
-url: https://tomasmiskov.com # root address of the site
+author: John Henry Mejia # name of site's author
+email: jhmrow@gmail.com # email of site's author
+url: https://jhmejia.com # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A tiny "peace" of internet curated by Tomas Miskov - math, animation, learning, and life.
+  John Henry Mejia portfolio - math, animation, learning, and life.
 
 social:
-  name: Tomas Miskov
+  name: John Henry Mejia
   links:
-    - https://twitter.com/ImotVoksim
-    - https://www.linkedin.com/in/tom%C3%A1%C5%A1-mi%C5%A1kov-82aa44135/
-    - https://github.com/TomasMiskov
-    - https://www.instagram.com/imotvoksim/
+    - https://www.linkedin.com/in/johnhenrymejia/
+    - https://github.com/jhmejia
+
 
 permalink: /:slug.html
 google_analytics: G-E0Z7XVR1ET
 
 favicon: "Favicon_tm_32x32.png" # name+extension of favicon (which must be put on the root folder)
-goat_counter: "tomasmiskov" # put your GoatCounter name if you want to use GoatCounter analytics
+goat_counter: "jhmrow" # put your GoatCounter name if you want to use GoatCounter analytics
 
 # remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
-  back_home_text: "TM" # customize text for homepage link in post layout
+  back_home_text: "JHM" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
 
