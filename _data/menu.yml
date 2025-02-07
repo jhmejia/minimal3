@@ -10,6 +10,9 @@ entries:
           - title: 2024 - lockheed martin | systems engineer
           - title: 2023 - atlassian | site reliability engineer intern
           - title: 2022 - ultra electronics | software engineer intern
+      - title: education
+        entries:
+          - title: 2024 - texas christian university | b.s. computer science
       - title: more
         url: pages/about
       - title: resume
