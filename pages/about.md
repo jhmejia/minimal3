@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-### Who is Tomáš Miškov?
+### Who is John Henry Mejía?
 
 A pretty regular dude who's just a little bit too curious. This curiosity of his brings him great joy but also great struggle - as he can rarely sit still. So he always studies something, creates something, explores the great outdoors, exercises, walks (and thinks), reads, cycles, or writes his thoughts in a little notebook that he always carries around.  
 
@@ -11,7 +11,7 @@ Yep, that's pretty much me. Hello! Hi! Nice to meet you :)
 
 ### What am I up to these days?
 
-Currently I am still living in Amsterdam (my 6th year) finishing a research master's program in [Business Data Science](https://businessdatascience.nl/program-outline) at [The Tinbergen Institute](https://www.tinbergen.nl/about-tinbergen-institute/) in Amsterdam. Alongside my studies, I'm co-managing a tutoring company [Think Smart Tutoring](https://tstutoring.nl/), drawing [sticker designs](https://www.redbubble.com/people/hadicazvysavaca/shop?artistUserName=hadicazvysavaca&asc=u&collections=1790282&iaCode=all-departments&sortOrder=relevant) for fun (and for side income), and making [math explainers](https://youtube.com/@imotvoksim?si=nFmFvfaUly6wNa1G) on YouTube.
+Currently I am living in Fort Worth working at Lockheed Martin Aero on the F-22. Alongside my work, I'm a coach for the [TCU Rowing Team](https://tcurowing.com) and part of the [Fort Worth Rowing Club](https://fortworthrowing.org/). 
 
 ### What was I up to in the past?
 
