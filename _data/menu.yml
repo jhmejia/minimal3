@@ -2,20 +2,26 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: <b>Info</b>
+  - title: <b>info</b>
     entries:
-      - title: About
+      - title: systems engineer
+      - title: experience
+        entries:
+          - title: 2024 - lockheed martin | systems engineer
+          - title: 2023 - atlassian | site reliability engineer intern
+          - title: 2022 - ultra electronics | software engineer intern
+      - title: more
         url: pages/about
-      - title: More
-        url: pages/about
+      - title: resume
+        url: pages/resume
 
 
-  - title: <b>Learning posts</b>
+  - title: <b>learning posts</b>
     post_list:
       limit: 3
       category: learning
       show_more: true
-      show_more_text: See learning archive...
+      show_more_text: see learning archive...
       show_more_url: learning-archive.html
 
   # - title: <b>Miscellaneous (fun)</b>
