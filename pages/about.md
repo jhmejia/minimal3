@@ -11,7 +11,7 @@ Yep, that's pretty much me. Hello! Hi! Nice to meet you :)
 
 ### What am I up to these days?
 
-Currently I am living in Fort Worth working at Lockheed Martin Aero on the F-22. Alongside my work, I'm a coach for the [TCU Rowing Team](https://tcurowing.com) and part of the [Fort Worth Rowing Club](https://fortworthrowing.org/). 
+Currently I am living in Fort Worth working at Lockheed Martin Aeronautics on the F-22. Alongside my work, I'm a coach for the [TCU Rowing Team](https://tcurowing.com) and part of the [Fort Worth Rowing Club](https://fortworthrowing.org/). 
 
 ### What was I up to in the past?
 
