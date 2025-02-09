@@ -2,29 +2,29 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: <b>info</b>
+  - title: <b>Info</b>
     entries:
-      - title: systems engineer
-      - title: experience
+      - title: Systems Engineer
+      - title: Experience
         entries:
-          - title: 2024 - lockheed martin | systems engineer
-          - title: 2023 - atlassian | site reliability engineer intern
-          - title: 2022 - ultra electronics | software engineer intern
-      - title: education
+          - title: 2024 - Lockheed Martin | Systems Engineer
+          - title: 2023 - Atlassian | Site Reliability Engineer Intern
+          - title: 2022 - Ultra Electronics | Software Engineer Intern
+      - title: Education
         entries:
-          - title: 2024 - texas christian university | b.s. computer science
-      - title: more
+          - title: 2024 - Texas Christian University | B.S. Computer Science
+      - title: About
         url: pages/about
-      - title: resume
+      - title: Resume
         url: pages/resume
 
 
-  - title: <b>learning posts</b>
+  - title: <b>Learning posts</b>
     post_list:
       limit: 3
       category: learning
       show_more: true
-      show_more_text: see learning archive...
+      show_more_text: See Learning Archive...
       show_more_url: learning-archive.html
 
   # - title: <b>Miscellaneous (fun)</b>
