@@ -30,6 +30,7 @@ title: Extended Resume
 - Modeled IMIS releases using **Cameo** (activity, sequence, parametric, use case, and block definition diagrams).
 - Managed **DOORS and Cameo databases** using **DXL, SQL, Java, and Python**, reducing document export time by **94%**.
 - Led the **requirements lifecycle** from development to end-of-life and presented requirement changes to the **Requirements Review Board**.
+- Requirements Manager of IMIS
 
 ### **Atlassian - Site Reliability Engineer Intern** *(May 2023 - Aug 2023)*  
 - Migrated **runbook backup system to AWS SQS + Lambdas**, improving scalability, reducing backup time by **90.2%**, and lowering costs by **71.4%**.
