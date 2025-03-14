@@ -2,11 +2,14 @@
 layout: page
 title: Extended Resume
 ---
-# John Henry Mejia
+## John Henry Mejia
 
 [![GitHub](https://img.shields.io/badge/GitHub-jhmejia-181717?logo=github)](https://github.com/jhmejia)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JohnHenryMejia-0077B5?logo=linkedin)](https://linkedin.com/in/johnhenrymejia)
+
 [![Website](https://img.shields.io/badge/Website-jhmejia.com-000000?logo=internet-explorer)](https://jhmejia.com)  
+
 📧 [jhmejia2020@gmail.com](mailto:jhmejia2020@gmail.com) | 📞 [(512)-629-9116](tel:+15126299116)
 
 ---
@@ -60,14 +63,15 @@ title: Extended Resume
 ---
 
 ## Technical Skills  
-- **Languages & Databases**: Python, UML, SysML 2, C#, C, C++, Java, DXL (DOORS), R, SQL, Bash  
+- **Languages & Databases**:
+  - Python, UML, SysML 2, C#, C, C++, Java, DXL (DOORS), R, SQL, Bash  
 - **Frameworks**: Flask, TensorFlow (Keras), Apache Velocity, Spring Boot, Jenkins, Kubernetes, Docker, VMWare  
 - **Libraries & Tools**: NumPy, Pandas, Matplotlib, Scikit-learn, Git, AWS SQS + Lambdas, Linux (RHEL, Fedora)  
 
 ---
 
 ## Additional Information  
-- **TCU Rowing Team** *(2020 - Present)*: Coach | Former President | **National Record Holder**  
+- **TCU Rowing Team** *(2020 - Present)*: Coach / Former President / National Record Holder
 - **Languages**: English (Fluent), Spanish (Fluent)  
 - **Security Clearance**: Secret  
 
