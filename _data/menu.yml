@@ -17,6 +17,8 @@ entries:
         url: pages/about
       - title: Resume
         url: pages/resume.pdf
+      - title: Expanded Resume
+        url: pages/cv
 
 
   - title: <b>Learning posts</b>
