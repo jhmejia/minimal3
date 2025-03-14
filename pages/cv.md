@@ -64,8 +64,25 @@ title: Extended Resume
 
 ## Technical Skills  
 - **Languages & Databases**:
-  - Python, UML, SysML 2, C#, C, C++, Java, DXL (DOORS), R, SQL, Bash  
-- **Frameworks**: Flask, TensorFlow (Keras), Apache Velocity, Spring Boot, Jenkins, Kubernetes, Docker, VMWare  
+  - Python
+  - UML
+  - SysML
+  - C#
+  - C/C++
+  - Java (Spring Boot, Apache Velocity)
+  - DXL (DOORS)
+  - R
+  - SQL
+  - Bash
+  - TS/JS
+  - HTML/CSS  
+- **Frameworks**:
+  - Flask
+  - TensorFlow (Keras)
+  - Jenkins
+  - Kubernetes
+  - Docker
+  - VMWare  
 - **Libraries & Tools**: NumPy, Pandas, Matplotlib, Scikit-learn, Git, AWS SQS + Lambdas, Linux (RHEL, Fedora)  
 
 ---
