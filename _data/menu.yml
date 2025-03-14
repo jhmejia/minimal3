@@ -16,7 +16,7 @@ entries:
       - title: About
         url: pages/about
       - title: Resume
-        url: pages/resume
+        url: pages/resume.pdf
 
 
   - title: <b>Learning posts</b>
