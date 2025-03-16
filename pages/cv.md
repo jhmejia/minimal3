@@ -5,12 +5,10 @@ title: Extended Resume
 ## John Henry Mejia
 
 [![GitHub](https://img.shields.io/badge/GitHub-jhmejia-181717?logo=github)](https://github.com/jhmejia)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JohnHenryMejia-0077B5?logo=linkedin)](https://linkedin.com/in/johnhenrymejia)
-
 [![Website](https://img.shields.io/badge/Website-jhmejia.com-000000?logo=internet-explorer)](https://jhmejia.com)  
-
-📧 [jhmejia2020@gmail.com](mailto:jhmejia2020@gmail.com) | 📞 [(512)-629-9116](tel:+15126299116)
+📧 [jhmejia2020@gmail.com](mailto:jhmejia2020@gmail.com) 
+📞 [(512)-629-9116](tel:+15126299116)
 
 ---
 
@@ -18,7 +16,7 @@ title: Extended Resume
 ### **Texas Christian University** *(August 2020 - May 2024)*  
 - **B.S. in Computer Science**
 - **Minors**: Mathematics & General Business  
-- Trustee Scholar and Chancellor's Scholar  
+- [Trustee Scholar](https://admissions.tcu.edu/afford/scholarship-aid/index.php) and [Chancellor's Scholar](https://chancellor.tcu.edu/initiatives/chancellors-scholars-program/)
 - UPE Computing Honor Society  
 
 ---
@@ -89,7 +87,7 @@ title: Extended Resume
 ---
 
 ## Additional Information  
-- **TCU Rowing Team** *(2020 - Present)*: Coach / Former President / National Record Holder
+- **TCU Rowing Team** *(2020 - Present)*: Coach / Former President / [National Record Holder](https://www.concept2.com/records?record_type=american&machine=slides&event=42195&gender=M&age_category=19&weight_class=L&language_variant=)
 - **Languages**: English (Fluent), Spanish (Fluent)  
 - **Security Clearance**: Secret  
 
