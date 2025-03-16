@@ -7,6 +7,8 @@ title: About
 
 A pretty regular dude who's just a little bit too curious. This curiosity of his brings him great joy but also great struggle - as he can rarely sit still. So he always studies something, creates something, explores the great outdoors, exercises, walks (and thinks), reads, cycles, or writes his thoughts in a little notebook that he always carries around.  
 
+![My Cats](images/home/cats.png)
+
 Yep, that's pretty much me. Hello! Hi! Nice to meet you :)
 
 ### What am I up to these days?
